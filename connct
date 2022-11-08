@@ -1,0 +1,11 @@
+mongodb+srv://shivam:<password>@cluster0.ttecb.mongodb.net/?retryWrites=true&w=majority
+
+mongodb+srv://m220student:Shivam@2000mflix-fhl5s.mongodb.net/test?retryWrites=true&w=majority 
+
+
+password : Shivam@2000
+
+
+
+
+const string = `mongodb+srv://shivam:Shivam@2000@cluster0.kbnfj4o.mongodb.net/record?retryWrites=true&w=majority`
